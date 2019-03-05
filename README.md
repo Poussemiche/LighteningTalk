@@ -12,6 +12,6 @@ Voici les consignes:
 
 5. Vous pouvez vous aider du site suivant: https://snyk.io/
 
-6. La présentation doit durer **4"20** minutes [ avec une démo ce serait :parfait:]
+6. La présentation doit durer **4"20** minutes [ avec une démo ce serait parfait]
 
 7. Enjoy !
