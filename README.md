@@ -1,4 +1,4 @@
-# LighteningTalk
+# LightningTalk
 
 Voici les consignes:
 
