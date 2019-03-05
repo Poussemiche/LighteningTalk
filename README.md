@@ -15,3 +15,5 @@ Voici les consignes:
 6. La présentation doit durer **4"20** minutes [ avec une démo ce serait parfait]
 
 7. Enjoy !
+
+SUBJECT PICKED : Information exposure
